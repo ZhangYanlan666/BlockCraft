@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="BlockCraft/BlockCraft.vcxproj" Id="813cbf0b-e6f3-4b7e-b13a-65aede5d0404" />
+</Solution>
